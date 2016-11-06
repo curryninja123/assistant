@@ -1,7 +1,7 @@
 {
   "name": "assistant",
   "version": "1.0.0",
-  "description": "",
+  "description": "versatile assistant application",
   "main": "index.js",
   "scripts": {
     "start": "electron .",
@@ -9,5 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.5",
+    "less": "^2.7.1"
+  },
+  "devDependencies": {}
 }
