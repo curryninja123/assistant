@@ -1,0 +1,23 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curryninja123/assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curryninja123/assistant/issues"
+  },
+  "homepage": "https://github.com/curryninja123/assistant#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.5"
+  },
+  "description": ""
+}
